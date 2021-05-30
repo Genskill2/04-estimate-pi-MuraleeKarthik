@@ -38,6 +38,7 @@ int main(void) {
     }
   }
 }
+
 float mc_pi(int n) 
 {
   float c=0.0;
